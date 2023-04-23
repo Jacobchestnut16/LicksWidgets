@@ -1,0 +1,19 @@
+9
+this is message four
+2023/03/25 22:56:09
+this is five
+2023/03/25 22:58:05
+delete 2
+2023/03/25 22:58:16
+testing server out
+2023/03/25 23:11:40
+serverRequest(); 
+2023/03/25 23:20:50
+I hate how people make fun of me. I dont think people think about how something small can hurt someone; i inclueded. I just want people to actual start respecting me as a person and not a push-over.
+2023/03/26 23:59:38
+testing popups
+2023/03/27 00:21:00
+testing opposite to popups
+2023/03/27 00:21:15
+this is a new note
+2023/04/23 14:53:13
